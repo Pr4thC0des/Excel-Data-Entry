@@ -29,9 +29,6 @@ Ideal for **attendance tracking, inventories, student records, and expenses**, i
 
 ## 📸 Screenshots & Demo
 
-<details>
-<summary>Click to view screenshots</summary>
-
 **1️⃣ App Home / File Creation**  
 ![App Screenshot](./excel-pics/1-excel.png)  
 
@@ -40,8 +37,6 @@ Ideal for **attendance tracking, inventories, student records, and expenses**, i
 
 **3️⃣ App Demo GIF**  
 ![App Demo GIF](./screenshots/demo.gif)  
-
-</details>
 
 ---
 
