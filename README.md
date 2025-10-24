@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-2.10-blue?logo=flutter&logoColor=white)](https://flutter.dev/) 
 [![Platform](https://img.shields.io/badge/Platform-Android%20|%20Desktop-lightgrey)](https://flutter.dev/docs/get-started/install) 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/excel-data-entry-flutter?style=social)](https://github.com/yourusername/excel-data-entry-flutter/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Pr4thC0des/excel-data-entry-flutter?style=social)](https://github.com/Pr4thC0des/excel-data-entry-flutter/stargazers)
 
 ---
 
@@ -32,9 +32,13 @@ Ideal for **attendance tracking, inventories, student records, and expenses**, i
 <details>
 <summary>Click to view screenshots</summary>
 
+**1️⃣ App Home / File Creation**  
 ![App Screenshot](./excel-pics/1-excel.png)  
+
+**2️⃣ Data Entry Interface**  
 ![App Screenshot](./excel-pics/2-excel.png)  
 
+**3️⃣ App Demo GIF**  
 ![App Demo GIF](./screenshots/demo.gif)  
 
 </details>
