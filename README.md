@@ -1,16 +1,67 @@
-# stdnt_details_app
+# 🗂️ Excel Data Entry Application (Flutter)
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-2.10-blue?logo=flutter&logoColor=white)](https://flutter.dev/) 
+[![Platform](https://img.shields.io/badge/Platform-Android%20|%20Desktop-lightgrey)](https://flutter.dev/docs/get-started/install) 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/excel-data-entry-flutter?style=social)](https://github.com/yourusername/excel-data-entry-flutter/stargazers)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Project Overview
 
-A few resources to get you started if this is your first Flutter project:
+The **Excel Data Entry Application** is a **cross-platform Flutter app** that allows users to **create, manage, and update Excel (`.xlsx`) files** directly from a sleek interface. Users can **choose the file location**, **enter data via interactive forms**, and **save automatically**, eliminating the need for Excel software.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ideal for **attendance tracking, inventories, student records, and expenses**, it offers a **portable, offline, and efficient solution** for structured data management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<details>
+<summary>🎯 Key Features</summary>
+
+- ✅ Create Excel sheets in any location  
+- ✅ Add, update, and save data through the app  
+- ✅ Offline functionality – no internet needed  
+- ✅ Cross-platform support – Android, Windows, macOS  
+- ✅ Automatic file detection and editing  
+- ✅ Clean and intuitive UI for data entry  
+
+</details>
+
+---
+
+## 📸 Screenshots & Demo
+
+<details>
+<summary>Click to view screenshots</summary>
+
+![App Screenshot](./excel-pics/1-excel.png)  
+![App Screenshot](./excel-pics/2-excel.png)  
+
+![App Demo GIF](./screenshots/demo.gif)  
+
+</details>
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) – Cross-platform framework  
+- [Dart](https://dart.dev/) – Programming language  
+- [excel](https://pub.dev/packages/excel) / [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio) – Excel file handling  
+
+---
+
+## ⚡ Getting Started
+
+<details>
+<summary>Click to expand instructions</summary>
+
+### Prerequisites
+- Flutter SDK  
+- Dart  
+- IDE (VS Code, Android Studio)
+
+### Installation
+```bash
+git clone https://github.com/yourusername/excel-data-entry-flutter.git
+cd excel-data-entry-flutter
+flutter pub get
+flutter run
