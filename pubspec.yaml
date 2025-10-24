@@ -1,0 +1,33 @@
+name: stdnt_details_app
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  excel: ^4.0.6
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  file_picker: ^10.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "lib/images/student.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/
