@@ -29,9 +29,9 @@ Ideal for **attendance tracking, inventories, student records, and expenses**, i
 
 ## 📸 Screenshots & Demo
 
-| App Home / File Creation | Data Entry Interface | App Demo GIF |
-|---------------------------|-------------------|--------------|
-| ![App Screenshot](./excel-pics/1-excel.png) | ![App Screenshot](./excel-pics/2-excel.png) | ![App Demo GIF](./screenshots/demo.gif) |
+| App Home / File Creation | Data Entry Interface |
+|---------------------------|-------------------|
+| ![App Screenshot](./excel-pics/1-excel.png) | ![App Screenshot](./excel-pics/2-excel.png) |
 
 ---
 
